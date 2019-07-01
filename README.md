@@ -3,10 +3,10 @@
 ## Learning Topics:
 - Basic Python
 - Advanced Python
-- Flask 
+- Flask (Selected)
 - SQLite
 - Mysql
-- Docker
+- Docker(Selected)
 - Kubernetes
 
 ## Rules:
@@ -30,7 +30,7 @@
 ## Learning Activities
 - Gone through docker essentials (https://www.youtube.com/playlist?list=PLhW3qG5bs-L99pQsZ74f-LC-tOEsBp2rK)
 - Executed basic docker commands (https://www.cheatography.com/sroze/cheat-sheets/docker-basics/)
-- Made simple "Hello world" web app in Flask
+- Made simple "Hello world" web app in Flask (https://palletsprojects.com/p/flask/)
 
 ## Group Activities
 - Created WhatsApp group, named the team and decided topics to cover
