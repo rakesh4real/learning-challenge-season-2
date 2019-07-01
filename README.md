@@ -23,9 +23,17 @@
 	- Validator check
 
 
-# My Daily learning: (Sample)
 
-## July 1
-- I have learend list and tuple in Pyhton using this tutorial: https://www.afternerd.com/blog/difference-between-list-tuple/
-- I have learned about basic docker commands from this article: https://rominirani.com/docker-tutorial-series-part-2-basic-commands-baaf70807fd3
-- I have learned basic python from think link: https://www.youtube.com/watch?v=N4mEzFDjqtA
+
+# Day 1: 1st July 2019
+
+## Learning Activities
+- Gone through docker essentials (https://www.youtube.com/playlist?list=PLhW3qG5bs-L99pQsZ74f-LC-tOEsBp2rK)
+- Executed basic docker commands (https://www.cheatography.com/sroze/cheat-sheets/docker-basics/)
+- Made simple "Hello world" web app in Flask
+
+## Group Activities
+- Created WhatsApp group, named the team and decided topics to cover
+- Conducted a hour long zoom call @11pm IST
+- Introduced ourselves and scheduled timings for the topics to be covered
+- Planned to create a fully functional Flask web app and deploy it using Docker
