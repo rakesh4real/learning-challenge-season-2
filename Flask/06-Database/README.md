@@ -85,5 +85,10 @@ User('Sisira', 's@xyz.com', 'default.jpg')
 User('Sisra', 's@xyz.com', 'default.jpg')
 ```
 
+- Remove all entries
+```
+>> db.drop_all()
+```
+
 
 
