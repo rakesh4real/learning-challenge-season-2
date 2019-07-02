@@ -15,4 +15,5 @@ In terminal:
 ### How to view rendered web app
 
 Go to https://localhost:[port]
+
 Note: Port will be displayed in terminal
