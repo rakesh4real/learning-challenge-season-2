@@ -3,10 +3,10 @@
 ## Learning Topics:
 - Basic Python
 - Advanced Python
-- Flask (Selected)
+- **Flask (Selected)**
 - SQLite
 - Mysql
-- Docker(Selected)
+- **Docker(Selected)**
 - Kubernetes
 
 ## Rules:
