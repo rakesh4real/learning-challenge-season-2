@@ -4,15 +4,18 @@
 - flask-wtf extension for flexible forms, rendering and validation library 
 
 Install it using
-> pip install flask
-
-> pip install flask-wtf
+```
+pip install flask
+pip install flask-wtf
+```
 
 -----
 ### How to run
 
 In terminal:
-> python myApp.py
+```
+python myApp.py
+```
 
 -------------
 ### How to view rendered web app
