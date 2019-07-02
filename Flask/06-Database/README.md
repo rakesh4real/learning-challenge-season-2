@@ -18,14 +18,18 @@ pip install flask-sqlalchemy```
 **In terminal:**
 
 Change to project directory and enter
-> python
+```
+>> python
 
+```
 **Inside python interpreter :**
 
 - Create an empty database
-> from myApp import db
+```
+>> from myApp import db
 
-> db.create_all()
+>> db.create_all()
+```
 
 - Insert into database
 > from myApp import User, Post
