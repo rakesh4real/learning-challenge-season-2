@@ -9,7 +9,7 @@ Install it using
 ### How to run
 
 In terminal:
-> python multiple.py
+> python myApp.py
 
 -------------
 ### How to view rendered web app
