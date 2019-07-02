@@ -35,5 +35,10 @@ Change to project directory and enter
 
 > db.session.commit()
 
+- Retrieve all data from a Table Model
+> User.query.all()
+
+
+
 
 
