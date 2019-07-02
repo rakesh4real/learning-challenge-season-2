@@ -12,7 +12,7 @@ pip install flask
 
 In terminal:
 ```
-python myApp.py
+python multiple.py
 ```
 
 -------------
