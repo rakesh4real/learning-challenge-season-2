@@ -24,7 +24,7 @@
 
 
 
-
+---
 # Day 1: 1st July 2019
 
 ## Learning Activities
@@ -37,3 +37,20 @@
 - Conducted a hour long zoom call @11pm IST
 - Introduced ourselves and scheduled timings for the topics to be covered
 - Planned to create a fully functional Flask web app and deploy it using Docker
+
+---
+# Day 2: 2nd July 2019
+
+## Learning Activities
+- Created a simple web app with multiple web pages
+- Added simple templates
+- Added navigation bar, cascading style sheets and bootstrapped it for better UI
+
+## Group Activities
+-
+-
+-
+------
+
+
+
