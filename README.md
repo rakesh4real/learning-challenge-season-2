@@ -46,7 +46,7 @@
 - Added simple templates
 - Added navigation bar, cascading style sheets and bootstrapped it for better UI
 - Created Login and Register page
-- Added SECRET_KEY, applied Form Validation and included notifications
+- Added SECRET_KEY, applied Form Validation and included Notifications
 
 ## Group Activities
 -
