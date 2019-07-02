@@ -4,7 +4,7 @@
 - Basic Python
 - Advanced Python
 - **Flask (Selected)**
-- SQLite
+- **SQLite (Used for testing DB)**
 - Mysql
 - **Docker(Selected)**
 - Kubernetes
