@@ -16,12 +16,12 @@ In terminal:
 
 - Home Page
 
-Go to http://localhost:[port]/
+     - Go to http://localhost:[port]/
 
-Go to http://localhost:[port]/home
+     - Go to http://localhost:[port]/home
 
 - About Page
 
-Go to http://localhost:[port]/about
+     - Go to http://localhost:[port]/about
 
 _Note: Port will be displayed in terminal_
