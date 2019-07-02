@@ -3,13 +3,17 @@
 - flask package
 
 Install it using
-> pip install flask
+```
+pip install flask
+```
 
 -----
 ### How to run
 
 In terminal:
-> python myApp.py
+```
+python myApp.py
+```
 
 -------------
 ### How to view rendered web app
@@ -24,4 +28,4 @@ In terminal:
 
      - Go to http://localhost:[port]/about
 
-_Note: Port will be displayed in terminal_
+(_Note: Port will be displayed in terminal_)
