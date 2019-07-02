@@ -21,8 +21,19 @@ Change to project directory and enter
 
 **Inside python interpreter :**
 
-- create an empty database
+- Create an empty database
 > from myApp import db
 
 > db.create_all()
+
+- Insert into database
+> from myApp import User, Post
+
+> user_1 = User(username='Sisira', email='s@xyz.com', password='password')
+
+> db.session.add(user_1)
+
+> db.session.commit()
+
+
 
