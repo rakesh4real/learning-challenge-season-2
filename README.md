@@ -48,6 +48,11 @@
 - Created Login and Register page
 - Added SECRET_KEY, applied Form Validation and included Notifications
 
+---
+# Day 3: 3rd July 2019
+
+## Learning Activities
+- Created SQLite database for testing and performed important query operations on it.
 
 
 
