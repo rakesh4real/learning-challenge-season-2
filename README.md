@@ -48,10 +48,10 @@
 - Created Login and Register page
 - Added SECRET_KEY, applied Form Validation and included Notifications
 
-## Group Activities
--
--
--
+
+
+
+
 ------
 
 
