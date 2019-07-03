@@ -1,0 +1,31 @@
+
+
+//link to vagrant file:
+//https://github.com/LondonAppDev/course-rest-api/vagrant
+
+vagrant up
+vagrant ssh
+
+//if virtual env dont work check thread by Nguyen Xuan https://stackoverflow.com/questions/25774829/mkvirtualenv-command-not-found
+
+mkvirtualenv profiles_api --python=python3
+deactivate
+workon profiles_api
+
+pip install django==1.11
+pip install djangorestframework==3.6.2
+
+django-admin.py startproject [projectname(here, profiles_project)]		 create empty django proj. Django proj is a series of apps.
+cd profiles_project
+python manage.py startapp [appname(here, profiles_api)] 			 create user defined app
+
+
+add into src/profiles_proj/profiles_proj/settings.py/INSTALLED APPS:
+    'rest_framework',
+    'rest_framework.authtoken',
+    'profiles_api',
+
+pip freeze
+pip freeze > requirements.txt
+
+python manage.py runserver 0.0.0.0:8080						 0.0.0.0 mean all ip addresses
