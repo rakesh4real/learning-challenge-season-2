@@ -54,6 +54,7 @@
 ## Learning Activities
 - Created SQLite database for testing and performed important query operations on it.
 - Converted the web application into Package for prodictivity
+- Used hash gunctions (bcrypt) for password
 
 
 
