@@ -3,5 +3,15 @@
 **Fact:** 
 
 >Whenever Python imports something from a module, it runs the entire module; 
-Not just the imported section(class) of a module!
+Not just the imported section(class) of the module!
+
+This creates many problems when we try to import from modules as we will be needing import statements in 
+a particular order. We can simply convert it into package to avoid problems.
+
+Using package we make all of these imports more simple and allow us to separate things 
+out in a better way which has been done till now(using modules).
+
+**Note:** _We might have fixed problems with messy imports but we have to take care of circular imports. For example in routes.py module we are importing 'app' variable. We can't import the routes i.e @app
+
+
 
