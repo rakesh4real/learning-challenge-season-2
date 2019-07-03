@@ -1,5 +1,5 @@
 # importing 'app' variable from __init__
-from flaskblog import app
+from myApp import app
 
 # True when script is run directly using python
 if __name__ == '__main__':
