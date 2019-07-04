@@ -27,8 +27,8 @@
 ---
 **[ EACH DAY IS NAMED AFTER ONE OF THE SEVEN DEADLY SINS ]**
 ---
-# Day 1: ENVY
-1st July 2019
+# Day 1: Envy 
+(1st July 2019)
 
 ## Learning Activities
 - Gone through docker essentials (https://www.youtube.com/playlist?list=PLhW3qG5bs-L99pQsZ74f-LC-tOEsBp2rK)
@@ -42,7 +42,8 @@
 - Planned to create a fully functional Flask web app and deploy it using Docker
 
 ---
-# Day 2: 2nd July 2019
+# Day 2: Pride
+(2nd July 2019)
 
 ## Learning Activities
 - Created a simple web app with multiple web pages
@@ -52,7 +53,8 @@
 - Added SECRET_KEY, applied Form Validation and included Notifications
 
 ---
-# Day 3: 3rd July 2019
+# Day 3: Greed
+(3rd July 2019)
 
 ## Learning Activities
 - Created SQLite database for testing and performed important query operations on it.
@@ -60,7 +62,8 @@
 - Used hash function(bcrypt) for password
 
 ---
-# Day 4: 4th July 2019
+# Day 4: Sloth 
+(4th July 2019)
 
 ## Learning Activities
 - Connected the regustration page to database
