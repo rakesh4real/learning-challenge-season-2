@@ -25,7 +25,10 @@
 
 
 ---
-# Day 1: 1st July 2019
+**[ EACH DAY IS NAMED AFTER ONE OF THE SEVEN DEADLY SINS ]**
+---
+# Day 1: ENVY
+1st July 2019
 
 ## Learning Activities
 - Gone through docker essentials (https://www.youtube.com/playlist?list=PLhW3qG5bs-L99pQsZ74f-LC-tOEsBp2rK)
