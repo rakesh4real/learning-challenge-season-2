@@ -61,7 +61,7 @@
 - Used hash function(bcrypt) for password
 
 ---
-# 4. Sloth: 1st July 2019
+# 4. Sloth: 4y July 2019
 
 ## Learning Activities
 - Connected the regustration page to database
