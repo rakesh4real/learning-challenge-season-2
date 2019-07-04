@@ -56,6 +56,13 @@
 - Converted the web application into Package for prodictivity
 - Used hash function(bcrypt) for password
 
+---
+# Day 4: 4th July 2019
+
+## Learning Activities
+-
+-
+-
 
 
 
