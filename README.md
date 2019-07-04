@@ -27,6 +27,8 @@
 ---
 **[ EACH DAY IS NAMED AFTER ONE OF THE SEVEN DEADLY SINS ]**
 ---
+
+
 # 1. Envy: 1st July 2019
 
 ## Learning Activities
