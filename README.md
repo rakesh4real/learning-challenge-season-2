@@ -60,8 +60,8 @@
 # Day 4: 4th July 2019
 
 ## Learning Activities
--
--
+- Cnnected the ligin page to database
+- Enhanced registration page to validate duplicate usernames and emails from database while signing up
 -
 
 
