@@ -68,6 +68,12 @@
 - Enhanced registration page to validate duplicate usernames and emails from database while signing up
 - Used ```flask-login``` to manage login sessions
 
+---
+# 5. Passion: 5th July 2019
+-
+-
+-
+
 
 
 ------
