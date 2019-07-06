@@ -77,7 +77,7 @@
 ---
 # 7. The Seventh Sin: 7th July 2019
 - Fine tuned the we application
-
+- Reviewed Docker commands
 
 
 
