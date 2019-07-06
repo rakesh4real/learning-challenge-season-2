@@ -71,6 +71,10 @@
 ---
 # 5. Passion: 5th July 2019
 - [ Zero Updates ]
+---
+# 6. Wrath: 6th July 2019
+-
+
 
 
 
