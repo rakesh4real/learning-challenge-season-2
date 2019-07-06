@@ -3,6 +3,7 @@
 - flask package
 - flask-wtf extension for flexible forms, rendering and validation library
 - flask SQLAlchemy ( To use single python code base for different SQL)
+- flask-bcrypt to hash the passwords
 
 
 Install it using
@@ -10,6 +11,7 @@ Install it using
 pip install flask
 pip install flask-wtf
 pip install flask-sqlalchemy
+pip install flask-bcrypt
 ```
 
 -----
@@ -43,3 +45,5 @@ python run.py
 
 (_Note: Port will be displayed in terminal_)
 ---
+
+
