@@ -4,7 +4,7 @@
 - Basic Python
 - Advanced Python
 - **Flask (Selected)**
-- **SQLite (Used for testing DB)**
+- SQLite
 - Mysql
 - **Docker(Selected)**
 - Kubernetes
@@ -78,8 +78,7 @@
 ---
 # 7. The Seventh Sin: 7th July 2019
 -
--
--
+
 
 
 
