@@ -65,7 +65,8 @@
 
 ## Learning Activities
 - Connected the regustration page to database
-- Enhanced registration page to validate duplicate usernames and emails from database while signing up
+- Enhanced registration page to validate duplicate usernames from database while signing up
+- Enhanced registration page to validate duplicate emails from database while signing up
 - Used ```flask-login``` to manage login sessions
 
 ---
@@ -73,8 +74,12 @@
 - [ Zero Updates ]
 ---
 # 6. Wrath: 6th July 2019
+- [ Zero Updates]
+---
+# 7. The Seventh Sin: 7th July 2019
 -
-
+-
+-
 
 
 
