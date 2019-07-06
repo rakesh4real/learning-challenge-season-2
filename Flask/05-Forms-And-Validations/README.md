@@ -30,4 +30,12 @@ python myApp.py
 
      - Go to http://localhost:[port]/about
 
+- Register Page
+
+     -  Go to http://localhost:[port]/register
+
+- Login Page
+
+     -  Go to http://localhost:[port]/login
+
 (_Note: Port will be displayed in terminal_)
