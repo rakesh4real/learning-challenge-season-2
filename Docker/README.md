@@ -9,9 +9,9 @@ In a nutshell, docker container lets you run your app in any machine irrespectiv
 
 In Docker Image:
 
-    * Install python3
-    * Install pip3
-    * Copy Source code of FlaskApp
-    * Install Python Modules
-    * Expose Port
-    * Make Container Executable
+    *Install python3
+    *Install pip3
+    *Copy Source code of FlaskApp
+    *Install Python Modules
+    *Expose Port
+    *Make Container Executable
