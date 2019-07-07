@@ -76,7 +76,7 @@
 - [ Zero Updates]
 ---
 # 7. Day 7: 7th July 2019
-- Fine tuned the we application
+- Fine tuned the web application
 - Reviewed Docker commands
 - Used docker container to run the flask application
 
